@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\canor\\OneDrive\\Masa\u00FCst\u00FC\\k\u00FCt\u00FCphane otomasyonu\\kutuphaneotomasyonu\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F1894475-DE02-4CA7-8BD5-A7A3676B1591}|kutuphaneotomasyonu\\kutuphaneotomasyonu.csproj|C:\\Users\\canor\\OneDrive\\Masa\u00FCst\u00FC\\k\u00FCt\u00FCphane otomasyonu\\kutuphaneotomasyonu\\kutuphaneotomasyonu\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F1894475-DE02-4CA7-8BD5-A7A3676B1591}|kutuphaneotomasyonu\\kutuphaneotomasyonu.csproj|solutionrelative:kutuphaneotomasyonu\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1894475-DE02-4CA7-8BD5-A7A3676B1591}|kutuphaneotomasyonu\\kutuphaneotomasyonu.csproj|c:\\users\\canor\\onedrive\\masa\u00FCst\u00FC\\k\u00FCt\u00FCphane otomasyonu\\kutuphaneotomasyonu\\kutuphaneotomasyonu\\uyesayfasi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F1894475-DE02-4CA7-8BD5-A7A3676B1591}|kutuphaneotomasyonu\\kutuphaneotomasyonu.csproj|solutionrelative:kutuphaneotomasyonu\\uyesayfasi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1894475-DE02-4CA7-8BD5-A7A3676B1591}|kutuphaneotomasyonu\\kutuphaneotomasyonu.csproj|C:\\Users\\canor\\OneDrive\\Masa\u00FCst\u00FC\\k\u00FCt\u00FCphane otomasyonu\\kutuphaneotomasyonu\\kutuphaneotomasyonu\\adminsayfasi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F1894475-DE02-4CA7-8BD5-A7A3676B1591}|kutuphaneotomasyonu\\kutuphaneotomasyonu.csproj|solutionrelative:kutuphaneotomasyonu\\adminsayfasi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1894475-DE02-4CA7-8BD5-A7A3676B1591}|kutuphaneotomasyonu\\kutuphaneotomasyonu.csproj|c:\\users\\canor\\onedrive\\masa\u00FCst\u00FC\\k\u00FCt\u00FCphane otomasyonu\\kutuphaneotomasyonu\\kutuphaneotomasyonu\\adminsayfasi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1894475-DE02-4CA7-8BD5-A7A3676B1591}|kutuphaneotomasyonu\\kutuphaneotomasyonu.csproj|solutionrelative:kutuphaneotomasyonu\\adminsayfasi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1894475-DE02-4CA7-8BD5-A7A3676B1591}|kutuphaneotomasyonu\\kutuphaneotomasyonu.csproj|C:\\Users\\canor\\OneDrive\\Masa\u00FCst\u00FC\\k\u00FCt\u00FCphane otomasyonu\\kutuphaneotomasyonu\\kutuphaneotomasyonu\\adminkitapiadesi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F1894475-DE02-4CA7-8BD5-A7A3676B1591}|kutuphaneotomasyonu\\kutuphaneotomasyonu.csproj|solutionrelative:kutuphaneotomasyonu\\adminkitapiadesi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1894475-DE02-4CA7-8BD5-A7A3676B1591}|kutuphaneotomasyonu\\kutuphaneotomasyonu.csproj|C:\\Users\\canor\\OneDrive\\Masa\u00FCst\u00FC\\k\u00FCt\u00FCphane otomasyonu\\kutuphaneotomasyonu\\kutuphaneotomasyonu\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1894475-DE02-4CA7-8BD5-A7A3676B1591}|kutuphaneotomasyonu\\kutuphaneotomasyonu.csproj|solutionrelative:kutuphaneotomasyonu\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UyeSayfasi.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\canor\\OneDrive\\Masa\u00FCst\u00FC\\k\u00FCt\u00FCphane otomasyonu\\kutuphaneotomasyonu\\kutuphaneotomasyonu\\UyeSayfasi.cs",
+              "RelativeDocumentMoniker": "kutuphaneotomasyonu\\UyeSayfasi.cs",
+              "ToolTip": "C:\\Users\\canor\\OneDrive\\Masa\u00FCst\u00FC\\k\u00FCt\u00FCphane otomasyonu\\kutuphaneotomasyonu\\kutuphaneotomasyonu\\UyeSayfasi.cs [Tasar\u0131m]",
+              "RelativeToolTip": "kutuphaneotomasyonu\\UyeSayfasi.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T03:06:02.698Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AdminSayfasi.cs",
+              "DocumentMoniker": "C:\\Users\\canor\\OneDrive\\Masa\u00FCst\u00FC\\k\u00FCt\u00FCphane otomasyonu\\kutuphaneotomasyonu\\kutuphaneotomasyonu\\AdminSayfasi.cs",
+              "RelativeDocumentMoniker": "kutuphaneotomasyonu\\AdminSayfasi.cs",
+              "ToolTip": "C:\\Users\\canor\\OneDrive\\Masa\u00FCst\u00FC\\k\u00FCt\u00FCphane otomasyonu\\kutuphaneotomasyonu\\kutuphaneotomasyonu\\AdminSayfasi.cs",
+              "RelativeToolTip": "kutuphaneotomasyonu\\AdminSayfasi.cs",
+              "ViewState": "AQIAAEMAAAAAAAAAAAAuwEkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T03:02:31.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AdminSayfasi.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\canor\\OneDrive\\Masa\u00FCst\u00FC\\k\u00FCt\u00FCphane otomasyonu\\kutuphaneotomasyonu\\kutuphaneotomasyonu\\AdminSayfasi.cs",
+              "RelativeDocumentMoniker": "kutuphaneotomasyonu\\AdminSayfasi.cs",
+              "ToolTip": "C:\\Users\\canor\\OneDrive\\Masa\u00FCst\u00FC\\k\u00FCt\u00FCphane otomasyonu\\kutuphaneotomasyonu\\kutuphaneotomasyonu\\AdminSayfasi.cs [Tasar\u0131m]",
+              "RelativeToolTip": "kutuphaneotomasyonu\\AdminSayfasi.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T03:02:14.664Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "adminkitapiadesi.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\canor\\OneDrive\\Masa\u00FCst\u00FC\\k\u00FCt\u00FCphane otomasyonu\\kutuphaneotomasyonu\\kutuphaneotomasyonu\\adminkitapiadesi.cs",
+              "RelativeDocumentMoniker": "kutuphaneotomasyonu\\adminkitapiadesi.cs",
+              "ToolTip": "C:\\Users\\canor\\OneDrive\\Masa\u00FCst\u00FC\\k\u00FCt\u00FCphane otomasyonu\\kutuphaneotomasyonu\\kutuphaneotomasyonu\\adminkitapiadesi.cs [Tasar\u0131m]",
+              "RelativeToolTip": "kutuphaneotomasyonu\\adminkitapiadesi.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T03:01:46.057Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\canor\\OneDrive\\Masa\u00FCst\u00FC\\k\u00FCt\u00FCphane otomasyonu\\kutuphaneotomasyonu\\kutuphaneotomasyonu\\Form1.cs",
+              "RelativeDocumentMoniker": "kutuphaneotomasyonu\\Form1.cs",
+              "ToolTip": "C:\\Users\\canor\\OneDrive\\Masa\u00FCst\u00FC\\k\u00FCt\u00FCphane otomasyonu\\kutuphaneotomasyonu\\kutuphaneotomasyonu\\Form1.cs",
+              "RelativeToolTip": "kutuphaneotomasyonu\\Form1.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAwBMAAACGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T16:00:50.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\canor\\OneDrive\\Masa\u00FCst\u00FC\\k\u00FCt\u00FCphane otomasyonu\\kutuphaneotomasyonu\\kutuphaneotomasyonu\\Form1.cs",
+              "RelativeDocumentMoniker": "kutuphaneotomasyonu\\Form1.cs",
+              "ToolTip": "C:\\Users\\canor\\OneDrive\\Masa\u00FCst\u00FC\\k\u00FCt\u00FCphane otomasyonu\\kutuphaneotomasyonu\\kutuphaneotomasyonu\\Form1.cs [Tasar\u0131m]",
+              "RelativeToolTip": "kutuphaneotomasyonu\\Form1.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T12:07:34.668Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
